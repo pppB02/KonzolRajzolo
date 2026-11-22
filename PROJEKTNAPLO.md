@@ -1,6 +1,6 @@
 # Projektnapló – Konzolos rajzoló
 
-GitHub-repó: [_(kitöltendő)_](https://github.com/pppB02/KonzolRajzolo.git)
+GitHub-repó: https://github.com/pppB02/KonzolRajzolo.git
 
 ## Munkamegosztás
 
